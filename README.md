@@ -92,7 +92,7 @@ help                    # Show all commands
 quit                    # Exit player
 ```
 
-![Screenshot Placeholder 3](screenshots/playlist.png)
+![Screenshot](Screenshots/Screenshot%202025-11-13%20125951.png)
 
 ## ⚙️ Configuration
 
@@ -241,6 +241,7 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 ---
 
 **Enjoy your music! 🎵**
+
 
 
 
