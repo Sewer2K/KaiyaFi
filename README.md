@@ -2,8 +2,7 @@
 
 **Your terminal, your music, your way.** A powerful CLI music player that brings YouTube Music and Spotify to your command line. Stream millions of songs for free, manage playlists, and control everything with simple commands - no GUI needed!
 
-![Screenshot](Screenshots/Screenshot-2025-11-12-231006.png)
-
+![Screenshot](Screenshots/Screenshot-2025-11-12%20231006.png)
 ## ✨ Features
 
 - 🎵 **YouTube Music Integration** - Search and play music from YouTube Music (completely free!)
@@ -244,6 +243,7 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 ---
 
 **Enjoy your music! 🎵**
+
 
 
 
