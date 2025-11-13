@@ -228,6 +228,8 @@ MIT License - Feel free to use and modify!
 
 ## 🙏 Acknowledgments
 
+- [rmpc](https://github.com/mierak/rmpc) - Repo that inspired me 
+- [Video](https://www.youtube.com/watch?v=oTOu7VfXnl8) - Youtube Video that inspired me 
 - [ytmusicapi](https://github.com/sigma67/ytmusicapi) - YouTube Music API
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - YouTube downloader
 - [spotipy](https://github.com/spotipy-dev/spotipy) - Spotify API wrapper
@@ -241,6 +243,7 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 ---
 
 **Enjoy your music! 🎵**
+
 
 
 
