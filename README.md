@@ -16,8 +16,6 @@
 - 🔄 **Auto-Play** - Automatically plays the next track when current one finishes
 - 💾 **Persistent Storage** - All settings and playlists are saved locally
 
-![Screenshot Placeholder 2](screenshots/now-playing.png)
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -243,6 +241,7 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 ---
 
 **Enjoy your music! 🎵**
+
 
 
 
