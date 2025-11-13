@@ -155,7 +155,7 @@ Settings are saved in `~/.music_player/config.json`
 # Shuffles and continues playing
 ```
 
-![Screenshot Placeholder 4](screenshots/search.png)
+![Screenshot](Screenshots/Screenshot%202025-11-13%20125921.png)
 
 ## 🗂️ File Structure
 
@@ -241,6 +241,7 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 ---
 
 **Enjoy your music! 🎵**
+
 
 
 
